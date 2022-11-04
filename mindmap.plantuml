@@ -1,29 +1,35 @@
 @startmindmap Mindmap Media Lifecycle Management 
-* Media Lifecycle Management
-** Medienarten 
-*** Spiele 
-**** AR 
-**** VR 
-*** Audio 
-**** Sprache 
-**** Musik 
-**** Hörbücher 
-**** Podcast 
-**** Radio  
-**** CD 
-**** Kassette
-*** Video
-**** Film 
-**** Fernsehen  
-*** Text
-**** Sprache 
-**** Printmedien 
-***** Bücher 
-***** Zeitschriften  
-**** Theater 
-*** Bild 
+' root
++ Media Lifecycle Management
+' left side 
+-- Lehrveranstaltung
+--- Lernportfolio 
+--- Constructive Allignment 
+' right side 
+++ Medienarten 
++++ Spiele 
+++++ AR 
+++++ VR 
++++ Audio 
+++++ Sprache 
+++++ Musik 
+++++ Hörbücher 
+++++ Podcast 
+++++ Radio  
+++++ CD 
+++++ Kassette
++++ Video
+++++ Film 
+++++ Fernsehen  
++++ Text
+++++ Sprache 
+++++ Printmedien 
++++++ Bücher 
++++++ Zeitschriften  
+++++ Theater 
++++ Bild 
 
-@endmindmap*** Audio 
-*** Video 
-*** Text 
-*** Bild 
+@endmindmap+++ Audio 
++++ Video 
++++ Text 
++++ Bild 
